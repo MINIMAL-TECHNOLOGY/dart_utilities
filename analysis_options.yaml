@@ -1,0 +1,20 @@
+include: package:lints/recommended.yaml
+
+linter:
+  rules:
+    camel_case_types: true
+    prefer_single_quotes: true
+    constant_identifier_names: ALL_CAPS_WITH_UNDERSCORES
+    always_use_package_imports: true
+    cancel_subscriptions: true
+    close_sinks: true
+    combinators_ordering: true
+    comment_references: true
+    invalid_case_patterns: true
+    library_annotations: true
+    one_member_abstracts: true
+    only_throw_errors: true
+
+analyzer:
+  exclude:
+    - '**/test/**'
