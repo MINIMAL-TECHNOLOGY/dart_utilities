@@ -1,4 +1,4 @@
-import 'package:dart_utilities/mixins/index.dart';
+import 'package:df_utilities/mixins/index.dart';
 
 abstract class JsonModel with JsonMixin {
   JsonModel();

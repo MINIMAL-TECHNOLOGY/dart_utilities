@@ -1,6 +1,6 @@
 import 'dart:mirrors';
 
-import 'package:dart_utilities/utilities/index.dart';
+import 'package:df_utilities/utilities/index.dart';
 
 final RAW_TYPES = <Type>{String, int, double, bool, Null, Object};
 

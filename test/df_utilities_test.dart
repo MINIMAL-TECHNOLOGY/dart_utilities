@@ -1,6 +1,6 @@
 import 'package:collection/collection.dart';
-import 'package:dart_utilities/dart-utilities.dart';
-import 'package:dart_utilities/models/index.dart';
+import 'package:df_utilities/models/json.model.dart';
+import 'package:df_utilities/utilities/index.dart';
 import 'package:test/test.dart';
 
 class AuthToken extends JsonModel {
