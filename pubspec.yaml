@@ -1,7 +1,8 @@
 name: dart_utilities
 description: Minimal Technology Utilities
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+version: 0.0.1
+homepage: https://github.com/MINIMAL-TECHNOLOGY/dart_utilities
+repository: https://github.com/MINIMAL-TECHNOLOGY/dart_utilities
 
 environment:
   sdk: ^3.5.2
